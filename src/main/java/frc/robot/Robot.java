@@ -5,6 +5,8 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
+// This is Robot.java
+
 package frc.robot;
 
 import edu.wpi.first.wpilibj.TimedRobot;

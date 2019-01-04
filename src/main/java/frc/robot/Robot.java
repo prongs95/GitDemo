@@ -6,7 +6,7 @@
 /*----------------------------------------------------------------------------*/
 
 // This is Robot.java
-// Yes, it really is!
+// Is it really Robot.java?
 
 package frc.robot;
 
